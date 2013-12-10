@@ -1,7 +1,7 @@
 {
-  "name": "the-new-sandbox",
-  "version": "0.4.0",
-  "description": "Sandbox site featuring typical Apostrophe features",
+  "name": "Shnarped",
+  "version": "0.1.0",
+  "description": "Shnarped - Connecting you with the pros",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
@@ -10,8 +10,8 @@
     "type": "git",
     "url": ""
   },
-  "author": "P'unk Avenue",
-  "license": "BSD",
+  "author": "Robbie Trudeau",
+  "license": "",
   "dependencies": {
     "appy": "0.x",
     "uploadfs": "0.x",
